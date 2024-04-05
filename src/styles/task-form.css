@@ -9,3 +9,12 @@ input[type="text"] {
   width: calc(80% - 62px);
   margin-right: 10px;
 }
+
+button {
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
